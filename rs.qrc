@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icon/arrow.png</file>
+        <file>icon/black.png</file>
+        <file>icon/blue.png</file>
+        <file>icon/clear.png</file>
+        <file>icon/ellipse.png</file>
+        <file>icon/line.png</file>
+        <file>icon/pen.png</file>
+        <file>icon/rect.png</file>
+        <file>icon/red.png</file>
+        <file>icon/redo.png</file>
+        <file>icon/save.png</file>
+        <file>icon/text.png</file>
+        <file>icon/thick.png</file>
+        <file>icon/thin.png</file>
+        <file>icon/undo.png</file>
+        <file>icon/white.png</file>
+        <file>icon/file.png</file>
+        <file>icon/start.png</file>
+        <file>icon/stop.png</file>
+    </qresource>
+</RCC>
